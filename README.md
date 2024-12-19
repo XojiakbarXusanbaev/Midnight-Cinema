@@ -1,28 +1,26 @@
-Midnight Cinema Bot — это мощный Telegram-бот для поиска, управления и просмотра фильмов прямо в чате. Бот предоставляет доступ к обширной фильмотеке, поддерживает удобную навигацию и имеет интеллектуальный поиск с учетом ошибок и синонимов.
 
-Основные функции:
-🎬 Поиск фильмов:
-Поддержка поиска по названию, ID, году выхода, жанру.
-Интеллектуальный поиск с учетом опечаток и альтернативных названий (например, "форсаж", "forsaj", "форса ж").
-📚 Каталог фильмов:
-Разделы:
-Жанры: Быстрый доступ к фильмам по категориям.
-Популярное: Фильмы с наибольшим числом просмотров.
-Недавно опубликованные: Последние добавленные фильмы.
-🔧 Интерактивные элементы:
-Использование InlineKeyboardMarkup для удобной навигации.
-При выборе фильма бот изменяет старое сообщение вместо отправки нового.
-После выбора фильма предлагается выбрать качество, а затем пересылается файл фильма с описанием из группы.
-📂 Автоматическое сохранение:
-Все загруженные фильмы автоматически сохраняются в базу данных.
-Фильмы можно пересылать повторно без повторного добавления.
-🛠️ Технические особенности:
-Backend: Python (aiogram) для логики и управления ботом.
-База данных: Сохранение информации о фильмах, чтобы избежать повторной загрузки.
-Midnight Cinema Bot превращает Telegram в полноценный кинотеатр, позволяя быстро находить и просматривать любимые фильмы в высоком качестве.
+Midnight Cinema Bot — bu Telegram kinobot bo‘lib, foydalanuvchilarga filmlar qidirish, ko‘rish va boshqarish imkonini beradi. Bot keng film bazasiga ega bo‘lib, qulay navigatsiya va aqlli qidiruv tizimi bilan jihozlangan.
 
-
-
+📽️ Asosiy funksiyalar:
+🎬 Filmlar qidiruvi:
+Film nomi, ID raqami, chiqarilgan yili yoki janri bo‘yicha izlash.
+Xatolar va sinonimlarni hisobga oluvchi aqlli qidiruv tizimi (masalan, "Forsaj", "Forsaj 2001", "Форсаж", "forsaj").
+📚 Film katalogi:
+Bo‘limlar:
+Janrlar: Filmlarni turkum bo‘yicha tezkor izlash.
+Mashhur: Eng ko‘p tomosha qilingan filmlar.
+Yangi qo‘shilgan: Yaqinda bazaga qo‘shilgan filmlar.
+🔧 Interaktiv boshqaruv:
+InlineKeyboardMarkup yordamida qulay tugmalar orqali boshqarish.
+Film tanlanganda eski xabar yangilanadi, yangi xabar yuborilmaydi.
+Film tanlangandan so‘ng, sifatni tanlash uchun tugmalar ko‘rsatiladi va keyin film fayli guruhdan tavsifi bilan birga yuboriladi.
+📂 Avtomatik saqlash:
+Har bir yuklangan film avtomatik ravishda ma'lumotlar bazasida saqlanadi.
+Oldin qo‘shilgan filmlarni qayta yuklamasdan yuborish imkoniyati mavjud.
+🛠️ Texnik imkoniyatlar:
+Backend: Botning mantiqiy qismi uchun Python (aiogram).
+Ma’lumotlar bazasi: Filmlar haqidagi ma’lumotlarni saqlash va qayta ishlatish.
+Midnight Cinema Bot sizga sevimli filmlaringizni Telegram orqali yuqori sifatda qidirish va tomosha qilish uchun qulay kino platformasini taqdim etadi! 🎥🍿
 
 
 
