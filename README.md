@@ -68,3 +68,9 @@ Ushbu loyiha [MIT litsenziyasi](LICENSE) asosida tarqatiladi.
 
 🎥 **Midnight Cinema Bot** sizga sevimli filmlaringizni Telegram orqali yuqori sifatda qidirish va tomosha qilish uchun qulay kino platformasini taqdim etadi! 🍿
 
+## 👨‍💻 Loyihani yaratuvchilar
+- [@Xojiakbar9447](https://t.me/Xojiakbar9447)
+- [@Max_beha](https://t.me/Max_beha)
+- [@Jas_623007](https://t.me/Jas_623007)
+- [@DESIGN_SOLIBEKOV](https://t.me/DESIGN_SOLIBEKOV)
+
