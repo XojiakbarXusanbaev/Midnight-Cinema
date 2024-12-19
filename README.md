@@ -1,3 +1,5 @@
+## ⚠️ Attention this script has been cut to prevent copying of the script. If you are interested in the project Write to me Telegram: @Xojiakbar9447
+
 # 🎥 Midnight Cinema Bot
 
 **Midnight Cinema Bot** — bu Telegram-kinobot bo‘lib, foydalanuvchilarga filmlar qidirish, ko‘rish va boshqarish imkonini beradi. Bot keng film bazasiga ega bo‘lib, qulay navigatsiya va aqlli qidiruv tizimi bilan jihozlangan.
