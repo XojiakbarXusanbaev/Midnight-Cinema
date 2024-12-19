@@ -1,4 +1,4 @@
-## ⚠️ Attention this script has been cut to prevent copying of the script. If you are interested in the project Write to me Telegram: @Xojiakbar9447
+# ⚠️ Attention this script has been cut to prevent copying of the script. If you are interested in the project Write to me Telegram: @Xojiakbar9447
 
 # 🎥 Midnight Cinema Bot
 
